@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Lucy's Portfolio
 
-Make it your own! 
+[Deployed Site](https://lucy-gelderloos-profile.netlify.app/)
