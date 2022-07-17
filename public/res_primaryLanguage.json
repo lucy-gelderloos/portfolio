@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Lucy Gelderloos. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome",
+      "description": "I'm Lucy Gelderloos, and I'm a full-stack software developer. I spent the last ten-plus years working in a variety of staff positions in law firms, starting in the copy room and ending up in IT support. I had the opportunity to learn skills ranging from unjamming copiers to creating PowerPoint templates to proofreading complex legal documents to maintaining the firm's intranet. I also received a Master's degree in Environmental Studies from The Evergreen State College, where along with refining my research and writing skills, I learned the basics of visualization and analysis tools R and ArcGIS. In both work and school, I've found that I'm most satisfied when I'm learning technical skills and using those skills to solve problems. I particularly enjoyed working with HTML and CSS, and continually sought out projects that would let me use those skills. Now I'm taking the leap and hoping to find a job where coding can be the main focus. Ideally, I'd like to combine this with my education and work on fighting climate change, either through state or local government or in the private sector.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
