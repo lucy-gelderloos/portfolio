@@ -40,16 +40,16 @@ Estimate of time needed to complete: 1.5h
 
 Start time: 5:15 PM
 
-Finish time:
+Finish time: 5:45 PM
 
-Actual time needed to complete:
+Actual time needed to complete: 30 m
 
 ### Feature Task 5 - Personalize (branch: personalize)
 
 Estimate of time needed to complete: 2h
 
-Start time:
+Start time: 6:30 PM
 
-Finish time:
+Finish time: 8::30 PM
 
-Actual time needed to complete:
+Actual time needed to complete: 2h
