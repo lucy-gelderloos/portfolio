@@ -38,7 +38,7 @@ Actual time needed to complete: 45m
 
 Estimate of time needed to complete: 1.5h
 
-Start time:
+Start time: 5:15 PM
 
 Finish time:
 
