@@ -1,6 +1,10 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Galdeano&family=Lexend+Mega:wght@100;200;300;500;600;700;800;900&display=swap');
+
+// font-family: 'Galdeano', sans-serif;
+// font-family: 'Lexend Mega', sans-serif;
 
 html {
 	font-size: 62.5%;
@@ -17,10 +21,12 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 2.5em;
+	color:white;
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Lexend Mega', sans-serif;
 	font-size: 250%;
 }
 
@@ -38,12 +44,13 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: white;
+	background-image: url('../public/images/geraniums-banner.png');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 75px;
 	padding-bottom: 0;
 }
 
@@ -53,26 +60,15 @@ header .nav {
 	letter-spacing: 5px;
 }
 
-.github-corner:hover .octo-arm {
-	animation:octocat-wave 560ms ease-in-out
-}
-
-@keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
-
-.language-icon {
-	font-size: 50px;
-	cursor: pointer;
-}
-
 .project-date {
 	font-size: 16px;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: 'Lexand Mega', sans-serif;
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #274001;
 	color: white;
 }
 
@@ -95,8 +91,8 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: white;
+	font-family: 'Lexend Mega', sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -120,7 +116,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #274001;
 	overflow: hidden;
 }
 
@@ -129,7 +125,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: #fff;
 	text-align: center;
 }
 
@@ -231,7 +227,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #6F8C04;
 }
 
 .experience-icon {
@@ -245,7 +241,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #6F8C04 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -256,7 +252,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #6F8C04 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +349,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #6F8C04;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +385,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #274001;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -415,6 +411,7 @@ header h1 {
 
 footer {
 	background: #1F1F1F;
+	background-image: url('../public/images/geraniums-banner.png');
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
