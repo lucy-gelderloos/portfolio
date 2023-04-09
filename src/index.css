@@ -8,11 +8,13 @@
 .Geraniums-5-hex { color: #D90707; }
 
 :root {
-  --main-bg-color: #274001;
+  --main-bg-color: #1d3000;
   --main-color: #FC4935;
 }
 
 body {
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
   margin: 0;
   font-family: 'Fira Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
