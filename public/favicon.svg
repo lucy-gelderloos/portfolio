@@ -2,16 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="54.064487"
-   height="30.176935"
-   viewBox="0 0 14.304562 7.9843141"
+   width="42"
+   height="29.999996"
+   viewBox="0 0 11.1125 7.937499"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="LG logo icon variants.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -298,66 +297,25 @@
          offset="0"
          id="stop4579" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Geranium_Dark_Green"
-       id="linearGradient13403"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05670107,0,0,0.05670107,84.496737,33.28056)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Geranium_Dark_Green"
-       id="linearGradient13405"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05670107,0,0,0.05670107,84.496737,33.28056)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Geranium_Med_Green"
-       id="linearGradient13407"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05670107,0,0,0.05670107,83.438397,42.673268)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Geranium_Med_Green"
-       id="linearGradient13409"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.05670107,0,0,0.05670107,83.438397,42.673268)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Geranium_Dark_Green"
-       id="linearGradient13561"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.05670107,0,0,-0.05670107,-309.53316,-88.034951)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.1298369,-21.568811)">
-    <path
-       style="fill:url(#linearGradient13561);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
-       d="m 5.098587,21.615626 -3.96875,3.96875 3.96875,3.96875 3.96875,-3.96875 z"
-       id="path13557"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:url(#linearGradient13409);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
-       d="m 9.8781503,29.506313 3.9687497,-3.968751 -3.9687497,-3.96875 -3.9687497,3.96875 2.38125,2.381251 2.3812494,-2.381251 -0.7937497,-0.793749 -1.5874997,1.587499 -0.79375,-0.79375 2.3812497,-2.38125 2.3812497,2.38125 -3.1749994,3.175001 z"
-       id="path13379"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
-       style="fill:url(#linearGradient13407);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
-       d="m 6.7031506,21.568812 0.79375,0.793751 -3.175,3.174999 3.175,3.174968 -0.79375,0.793783 -3.9687499,-3.968751 z"
-       id="path13381"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="fill:url(#linearGradient13405);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
-       d="m 8.2906506,21.568812 -3.96875,3.968751 3.96875,3.96875 3.9687494,-3.96875 -2.3812497,-2.381251 -2.3812497,2.381251 0.79375,0.793749 1.5874997,-1.587499 0.7937497,0.79375 -2.3812494,2.38125 -2.38125,-2.38125 3.175,-3.175001 z"
-       id="path13383"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
-       style="fill:url(#linearGradient13403);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
-       d="m 11.46565,29.506313 -0.79375,-0.793751 3.175,-3.174999 -3.175,-3.174968 0.79375,-0.793783 3.96875,3.968751 z"
-       id="path13385"
-       sodipodi:nodetypes="ccccccc" />
+     transform="translate(-1.8670493,-1.3692855)">
+    <g
+       id="g11924"
+       transform="translate(1.0732993,-1.0119644)">
+      <path
+         style="fill:url(#Geranium_Orange);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+         d="M 7.9375001,10.31875 11.90625,6.35 7.9375001,2.38125 3.9687501,6.35 6.3500001,8.73125 8.7312501,6.35 7.9375001,5.55625 6.3500001,7.14375 5.5562501,6.35 7.9375001,3.9687499 10.31875,6.35 7.1437501,9.525 Z"
+         id="path11918"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <path
+         style="fill:url(#Geranium_Orange);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+         d="M 4.7625,2.38125 5.55625,3.175 2.38125,6.35 5.55625,9.5249665 4.7625,10.31875 0.79375,6.35 Z"
+         id="path11920"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
   </g>
 </svg>

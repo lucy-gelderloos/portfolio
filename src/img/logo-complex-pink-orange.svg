@@ -8,18 +8,18 @@
    version="1.1"
    id="svg5"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlnsSvg="http://www.w3.org/2000/svg">
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient10375">
+       id="black">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop10373" />
     </linearGradient>
     <linearGradient
-       id="linearGradient10317">
+       id="white">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"

@@ -8,17 +8,26 @@
 .Geraniums-5-hex { color: #D90707; }
 
 :root {
+  /* colors */
   --main-bg-color: #1d3000;
-  --main-color: #FC4935;
+  --main-color: #0a1100;
   --footer-bg-color: #0a1100;
   --header-bg-color: #f8efdd;
+  --footer-color: #f8efdd;
+
+  /* dimensions */
+  --header-height: 75px;
+  --footer-height: 50px;
+  --header-divider-height: 7px;
 }
+
+/* elements */
 
 body {
   background-color: var(--main-bg-color);
   color: var(--main-color);
   /* margin: 0; */
-  margin-top: 50px;
+  margin-top: var(--header-height);
   font-family: 'Fira Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,7 +35,7 @@ body {
 
 header {
   background-color: var(--header-bg-color);
-  height: 50px;
+  height: var(--header-height);
   /* TODO: better way to make header sticky? */
   position: fixed;
   width: 100%;
@@ -35,7 +44,8 @@ header {
 
 footer {
   background-color: var(--footer-bg-color);
-  height: 50px;
+  color: var(--footer-color);
+  height: var(--footer-height);
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -45,3 +55,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* ids */
+
+#header-top {
+  background-color: var(--header-bg-color);
+  height:50%;
+}
+
+#header-divider {
+  background-color: #FC4935;
+  height: var(--header-divider-height);
+  width: 75%;
+  position: relative;
+  display: flex;
+  margin: auto;
+  top: calc(var(--header-divider-height) / 2);
+}
+
+#header-logo {
+  width: 15%;
+  align-self: center;
+  margin: 0 auto;
+  bottom: 10px;
+}
+
+#header-bottom {
+  background-color: var(--main-bg-color);
+  height: 50%;
+}
+
+/* classes */
