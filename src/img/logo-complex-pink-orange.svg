@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="54.064487"
+   height="30.176935"
+   viewBox="0 0 14.304562 7.9843141"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient10375">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10373" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10317">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop10315" />
+    </linearGradient>
+    <linearGradient
+       id="Geranium_Scarlet">
+      <stop
+         style="stop-color:#d40808;stop-opacity:1;"
+         offset="0"
+         id="stop10257" />
+    </linearGradient>
+    <linearGradient
+       id="Geranium_Med_Green"
+       gradientTransform="matrix(0.26458334,0,0,0.04899901,2.6027915,5.2829035)">
+      <stop
+         style="stop-color:#708a05;stop-opacity:1;"
+         offset="0"
+         id="stop9421" />
+    </linearGradient>
+    <linearGradient
+       id="Geranium_Dark_Green">
+      <stop
+         style="stop-color:#253c01;stop-opacity:1;"
+         offset="0"
+         id="stop7807" />
+    </linearGradient>
+    <linearGradient
+       id="Geranium_Magenta">
+      <stop
+         style="stop-color:#ef0687;stop-opacity:1;"
+         offset="0"
+         id="stop6919" />
+    </linearGradient>
+    <linearGradient
+       id="Geranium_Orange"
+       gradientTransform="matrix(-0.05670107,0,0,-0.05670107,-271.64817,-40.975074)">
+      <stop
+         style="stop-color:#fc4531;stop-opacity:1;"
+         offset="0"
+         id="stop4579" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-1.1298369,-21.568811)">
+    <path
+       style="fill:url(#Geranium_Orange);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       d="m 5.098587,21.615626 -3.96875,3.96875 3.96875,3.96875 3.96875,-3.96875 z"
+       id="path13557" />
+    <path
+       style="fill:url(#Geranium_Magenta);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       d="m 9.8781503,29.506313 3.9687497,-3.968751 -3.9687497,-3.96875 -3.9687497,3.96875 2.38125,2.381251 2.3812494,-2.381251 -0.7937497,-0.793749 -1.5874997,1.587499 -0.79375,-0.79375 2.3812497,-2.38125 2.3812497,2.38125 -3.1749994,3.175001 z"
+       id="path13379" />
+    <path
+       style="fill:url(#Geranium_Magenta);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       d="m 6.7031506,21.568812 0.79375,0.793751 -3.175,3.174999 3.175,3.174968 -0.79375,0.793783 -3.9687499,-3.968751 z"
+       id="path13381" />
+    <path
+       style="fill:url(#Geranium_Orange);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       d="m 8.2906506,21.568812 -3.96875,3.968751 3.96875,3.96875 3.9687494,-3.96875 -2.3812497,-2.381251 -2.3812497,2.381251 0.79375,0.793749 1.5874997,-1.587499 0.7937497,0.79375 -2.3812494,2.38125 -2.38125,-2.38125 3.175,-3.175001 z"
+       id="path13383" />
+    <path
+       style="fill:url(#Geranium_Orange);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
+       d="m 11.46565,29.506313 -0.79375,-0.793751 3.175,-3.174999 -3.175,-3.174968 0.79375,-0.793783 3.96875,3.968751 z"
+       id="path13385" />
+  </g>
+</svg>

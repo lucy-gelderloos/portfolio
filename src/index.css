@@ -10,15 +10,35 @@
 :root {
   --main-bg-color: #1d3000;
   --main-color: #FC4935;
+  --footer-bg-color: #0a1100;
+  --header-bg-color: #f8efdd;
 }
 
 body {
   background-color: var(--main-bg-color);
   color: var(--main-color);
-  margin: 0;
+  /* margin: 0; */
+  margin-top: 50px;
   font-family: 'Fira Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+header {
+  background-color: var(--header-bg-color);
+  height: 50px;
+  /* TODO: better way to make header sticky? */
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+footer {
+  background-color: var(--footer-bg-color);
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 code {
