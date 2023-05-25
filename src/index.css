@@ -16,7 +16,7 @@
   --footer-color: #f8efdd;
 
   /* dimensions */
-  --header-height: 75px;
+  --header-height: 50px;
   --footer-height: 50px;
   --header-divider-height: 7px;
 }
@@ -38,6 +38,7 @@ header {
   height: var(--header-height);
   /* TODO: better way to make header sticky? */
   position: fixed;
+  /* display:flex; */
   width: 100%;
   top: 0;
 }
@@ -58,11 +59,6 @@ code {
 
 /* ids */
 
-#header-top {
-  background-color: var(--header-bg-color);
-  height:50%;
-}
-
 #header-divider {
   background-color: #FC4935;
   height: var(--header-divider-height);
@@ -70,7 +66,7 @@ code {
   position: relative;
   display: flex;
   margin: auto;
-  top: calc(var(--header-divider-height) / 2);
+  margin-top: calc(var(--header-height) - (var(--header-divider-height) / 2));
 }
 
 #header-logo {
@@ -78,11 +74,6 @@ code {
   align-self: center;
   margin: 0 auto;
   bottom: 10px;
-}
-
-#header-bottom {
-  background-color: var(--main-bg-color);
-  height: 50%;
 }
 
 /* classes */
