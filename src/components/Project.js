@@ -24,18 +24,15 @@ class Project extends React.Component {
 
     render() {
         return(
-            <div className="projectDiv">
-                <Col className="projectCol">
-                    <h2>{this.projectTitle}</h2>  
-                    <div className="projectDetails">
-                        <img onClick={this.handleModalClick} src={require('../img/feature-image.png')} alt={this.projectDescription} title={this.projectTitle} />
-                    </div>
-                    <p>{this.projectDescription}</p>
-                </Col> 
-            </div>
+            <Col className="projectCol">
+                <h2>{this.projectTitle}</h2>  
+                <div className="projectDetails">
+                    <img onClick={this.handleModalClick} src={require('../img/feature-image.png')} alt={this.projectDescription} title={this.projectTitle} className='heroImg'/>
+                </div>
+                <p>{this.projectDescription}</p>
+            </Col> 
         );
     }
-
 }
 
 export default Project;

@@ -24,10 +24,6 @@
 /* elements */
 
 body {
-  background-color: var(--main-bg-color);
-  color: var(--main-color);
-  /* margin: 0; */
-  margin-top: var(--header-height);
   font-family: 'Fira Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -41,6 +37,13 @@ header {
   /* display:flex; */
   width: 100%;
   top: 0;
+}
+
+main {
+  margin-top: var(--header-height);
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
+  height: 100%;
 }
 
 footer {
@@ -77,3 +80,7 @@ code {
 }
 
 /* classes */
+
+.container {
+  background-color: none;
+}
