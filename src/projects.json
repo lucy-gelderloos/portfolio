@@ -1,0 +1,40 @@
+[
+    {
+        "_id": 1,
+        "projectTitle": "Example Project",
+        "projectDescription": "An example project for testing how the portfolio looks, built with nothing and signifying nothing.",
+        "repoUrl": "https://github.com/lucy-gelderloos/TaskMaster",
+        "hostedUrl": "",
+        "stack": [
+            "Android Studio",
+            "Java",
+            "AWS"
+        ],
+        "thumbnailUrl": "",
+        "heroUrl": "../img/feature-image.png",
+        "screenshotUrls": [],
+        "lastUpdated": 0,
+        "playStoreListing": "",
+        "backEndUrl": ""
+    },
+    {
+        "_id": 2,
+        "projectTitle": "Another Project",
+        "projectDescription": "An example project for testing how the portfolio looks, built with nothing and signifying nothing.",
+        "repoUrl": "https://github.com/lucy-gelderloos/Portfolio",
+        "hostedUrl": "",
+        "stack": [
+            "React",
+            "JS",
+            "HTML",
+            "CSS",
+            "Bootstrap"
+        ],
+        "thumbnailUrl": "",
+        "heroUrl": "../img/feature-image.png",
+        "screenshotUrls": [],
+        "lastUpdated": 1,
+        "playStoreListing": "",
+        "backEndUrl": ""
+    }
+]
