@@ -9,7 +9,7 @@
 
 :root {
   /* colors */
-  --main-bg-color: #1d3000;
+  --main-bg-color: #274001;
   --main-color: #0a1100;
   --footer-bg-color: #0a1100;
   --header-bg-color: #f8efdd;
@@ -18,7 +18,7 @@
   /* dimensions */
   --header-height: 50px;
   --footer-height: 50px;
-  --header-divider-height: 7px;
+  --header-divider-height: 5px;
 }
 
 /* elements */
